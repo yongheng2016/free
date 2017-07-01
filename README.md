@@ -15,9 +15,14 @@
   
   问题就出在我一直没有理解真正理解`block` 和 `inline`
   
-  
-  
-  
+  > 二
+  
+  不想出现滚动条就用overflow！！！
+  ```
+  overflow:[auto],[hidden],[visible]
+  overflow-x
+  overflos-y
+  ```
   
 - [ ] js篇
 
