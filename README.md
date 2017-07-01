@@ -19,7 +19,7 @@
   
   不想出现滚动条就用overflow！！！
   ```
-  overflow:[auto],[hidden],[visible]
+ overflow:[auto],[hidden],[visible]
   overflow-x
   overflos-y
   ```
